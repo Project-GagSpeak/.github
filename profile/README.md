@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/Project-GagSpeak/repo/main/ProjectGagSpeak/images/promopic2.png)
+![Banner Image](https://raw.githubusercontent.com/Project-GagSpeak/repo/main/ProjectGagSpeak/images/GagSpeakBannerAlt.png)
 ```
 https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json
 ```
