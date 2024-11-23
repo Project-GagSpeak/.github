@@ -1,8 +1,6 @@
 ![Banner Image](https://raw.githubusercontent.com/Project-GagSpeak/repo/main/ProjectGagSpeak/images/GithubBanner.png)
-```
-https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json
-```
-I personally hate when people lock horny activities behind paywalls and closed source code in a sea of open sourced free plugins.
+
+I personally hate when people lock functionality and features activities behind paywalls and closed source code in a sea of open sourced free plugins.
 
 That's why this passion project exists. It's a way to provide a free, open source, All-In-One BDSM Plugin for everyone to enjoy!
 
