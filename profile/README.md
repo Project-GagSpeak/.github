@@ -5,3 +5,9 @@ I personally hate when people lock functionality and features activities behind 
 That's why this passion project exists. It's a way to provide a free, open source, All-In-One BDSM Plugin for everyone to enjoy!
 
 Remember you are loved and cared for, and we are unique because we are different. It's what makes you special~
+
+# OFFICIAL PROJECT GAGSPEAK REPO LINK:
+```
+https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json
+```
+
